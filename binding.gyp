@@ -901,7 +901,7 @@
         "<!(node -e \"require('nan')\")"
       ],
       'libraries': [
-        "-Wl,-rpath, /root/grpc/third_party/openssl/libcrypto.a"
+        "-Wl,-rpath,./third_party/openssl-1.0.2f/libcrypto.a"
       ],
       'cflags': [
         '-std=c++11',

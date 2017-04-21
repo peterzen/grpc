@@ -27,6 +27,6 @@
 	path = third_party/cares/cares
 	url = https://github.com/c-ares/c-ares.git
 	branch = cares-1_12_0
-[submodule "third_party/openssl"]
-	path = third_party/openssl
+[submodule "third_party/openssl-1.0.2f"]
+	path = third_party/openssl-1.0.2f
 	url = https://github.com/openssl/openssl
